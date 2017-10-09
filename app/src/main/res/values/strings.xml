@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="confirmessage">Estás seguro de que quieres borrar </string>
+    <string name="borrar">BORRAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
